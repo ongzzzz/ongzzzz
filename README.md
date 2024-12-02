@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=👩🏻‍🌾ONZ👩🏻‍🌾&fontSize=16px" />
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=👩🏻‍🌾ONZ👩🏻‍🌾&fontSize=90" />
 
 
 
