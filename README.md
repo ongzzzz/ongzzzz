@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=👩🏻‍🌾ONZ👩🏻‍🌾&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=👩🏻‍🌾ONZ👩🏻‍🌾&fontSize=50" />
 
 
 
@@ -27,4 +27,3 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" />
