@@ -1,10 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFAE79,100:FFDB83&height=300&section=header&text=👩🏻‍🌾ONZ👩🏻‍🌾&fontSize=50" />
 
-----------------
+<br>
+<br>
+<br>
 <h4>👩🏻‍🌾 Introduction</h4>
 
 - Harbin Institute of Technology, HIT (2020 - 2025)
 
+<br>
+<br>
+<br>
 
 <h4>🌿 What I've Used</h4>
 <div>
@@ -18,13 +23,18 @@
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 </div>
 
-
+<br>
+<br>
+<br>
 <h4>🍅 Tools</h4>
 <div>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
+<br>
+<br>
+<br>
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{ongzzzz}"/>
 </a>
