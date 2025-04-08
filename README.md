@@ -5,7 +5,6 @@
 - Harbin Institute of Technology, HIT (2020 - 2025)
 
 <br>
-<br>
 
 <h3>🌿 What I've Used</h3>
 <div>
