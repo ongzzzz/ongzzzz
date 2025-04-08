@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFAE79,100:FFDB83&height=300&section=header&text=👩🏻‍🌾ONZ👩🏻‍🌾&fontSize=50" />
 
-<br>
-<br>
 <h3>👩🏻‍🌾 Introduction</h3>
 
 - Harbin Institute of Technology, HIT (2020 - 2025)
