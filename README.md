@@ -2,12 +2,10 @@
 
 <br>
 <br>
-<br>
 <h4>👩🏻‍🌾 Introduction</h4>
 
 - Harbin Institute of Technology, HIT (2020 - 2025)
 
-<br>
 <br>
 <br>
 
@@ -25,16 +23,20 @@
 
 <br>
 <br>
-<br>
 <h4>🍅 Tools</h4>
 <div>
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
+  <br>
+
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/>
 </div>
 
-<br>
-<br>
-<br>
+
+
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{ongzzzz}"/>
 </a>
