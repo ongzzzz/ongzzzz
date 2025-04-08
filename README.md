@@ -2,14 +2,14 @@
 
 <br>
 <br>
-<h4>👩🏻‍🌾 Introduction</h4>
+<h3>👩🏻‍🌾 Introduction</h3>
 
 - Harbin Institute of Technology, HIT (2020 - 2025)
 
 <br>
 <br>
 
-<h4>🌿 What I've Used</h4>
+<h3>🌿 What I've Used</h3>
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -26,7 +26,7 @@
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{ongzzzz}"/>
+  <img src="https://render.gitanimals.org/lines/ongzzzz?pet-id=666658711036516335" width="1000" height="120"/>
 </a>
 
 
