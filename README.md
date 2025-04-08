@@ -32,5 +32,7 @@
   <img src="https://render.gitanimals.org/lines/ongzzzz?pet-id=666658711036516335" width="1000" height="120"/>
 </a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 
 
