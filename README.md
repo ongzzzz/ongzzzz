@@ -3,9 +3,12 @@
 ----------------
 👩🏻‍🌾 Introduction
 
-냥냥 열심히 살쟈
+- Harbin Institute of Technology, HIT (2020 - 2025)
 
 
+🌿 What I've Used
+#E34F26
+<img src="https://img.shields.io/badge/html5-#E34F26?style=flat-square&logo=html5&logoColor=white"/>
 
 
 
